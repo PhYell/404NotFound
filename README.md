@@ -34,9 +34,7 @@
 
 ## Overview
 
-![screenshot](https://i.ibb.co/d0m5SZd/New-Bitmap-Image-9.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+![screenshot](https://i.ibb.co/XZtx5B2/New-Bitmap-Image-9.png)
 
 -   you can see demo on https://ph404notfound.netlify.app
 
