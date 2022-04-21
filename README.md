@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://ibb.co/gM4RGY5)
+![screenshot](https://i.ibb.co/d0m5SZd/New-Bitmap-Image-9.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -55,4 +55,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- -   Website [your-website.com](https://{your-web-site-link}) -->
 
--   GitHub [@your-username](https://github.com/PhYell)
+-   GitHub [@GiorgiVartanov](https://github.com/PhYell)
